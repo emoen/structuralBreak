@@ -1,0 +1,13 @@
+# extracted from a notebook
+
+## third-party
+crunch-cli  # alias of crunch
+joblib
+numpy
+pandas
+scikit-learn  # alias of sklearn
+scipy
+
+## standard
+#os
+#typing
